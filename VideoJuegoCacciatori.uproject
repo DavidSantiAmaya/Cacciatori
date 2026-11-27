@@ -43,6 +43,14 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "Aura",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac"
+			]
 		}
 	],
 	"TargetPlatforms": [
